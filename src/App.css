@@ -7,7 +7,7 @@
 
 .home,
 .services,
-.products,
+.products
 .sign-up {
   display: flex;
   height: 90vh;
@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('../public/images/img-2.jpg');
+  background-image: url('https://images.hdqwalls.com/wallpapers/world-of-warcraft-shadowlands-2021-4k-b4.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,16 +26,7 @@
 }
 
 .products {
-  background-image: url('../public/images/img-1.jpg');
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.sign-up {
-  background-image: url('../public/images/img-8.jpg');
+  background-image: url('https://wallpapercave.com/wp/FfEsmOa.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
